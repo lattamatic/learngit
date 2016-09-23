@@ -5,3 +5,5 @@ zzz
 This is second test file to study about branches and checkouts
 
 In new branches.
+
+In new branches, doing git push origin master
