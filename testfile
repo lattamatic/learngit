@@ -3,13 +3,3 @@ xxx
 yyy
 zzz
 This is second test file to study about branches and checkouts
-
-<<<<<<< HEAD
-In new branches.
-
-In new branches, doing git push origin master from master
-
-In new branch, doing git push origin master from new branch
-=======
-In master, doing git push origin master
->>>>>>> 99f412a4438f6d0234d08d7c6e8492631eab62de
