@@ -1,7 +1,1 @@
-Hi
-xxx
-yyy
-zzz
-This is second test file to study about branches and checkouts
-
-In master, doing git push origin master
+Hi master
