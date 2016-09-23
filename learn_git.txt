@@ -1,5 +1,3 @@
-Git 
-Version :2
-Branch: Master 
-Typing from my room. And the version 1 was from office.
-Let's change this file and see
+Version :7
+Deleted all the lines below this and trying to do some shit. Change this line
+Add some lines
