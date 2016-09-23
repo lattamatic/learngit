@@ -5,8 +5,16 @@ Edit this file and see what happens
 
 Editing in new branch
 
+<<<<<<< HEAD
 In new branch
 
 In new branch, doing git push origin master
 
 In new branch, doing git push origin master from new branch
+=======
+In master
+
+In master, doing git push origin master
+
+In master, doing git push origin master from new branch
+>>>>>>> 99f412a4438f6d0234d08d7c6e8492631eab62de
